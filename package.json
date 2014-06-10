@@ -1,0 +1,11 @@
+{
+  "name": "open_hazard_map_japan",
+  "description": "Disaster prevention map for Japan",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "traceur": "*",
+    "connect": "*",
+    "node-inspector": "*"
+  }
+}
