@@ -13,7 +13,7 @@ $(function(){
       return;
     }
     console.log(result_data);
-    $('#result').text(result_data.name);
+    $('#result').text(result_data.name + "," + result_data.age);
   });
 });
 
